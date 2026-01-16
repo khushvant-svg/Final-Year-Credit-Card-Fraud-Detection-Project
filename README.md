@@ -5,7 +5,6 @@
 
 Credit Card Fraud Detection Project with Research paper, Code and Documents 
 
-### Youtube Implementation Video : https://youtu.be/CiEnP4xE0dY
 
 ### Dataset Information
 
@@ -22,19 +21,3 @@ Two main Machine Learning Algorihtm are used:
 
 1. Logistic Regresion
 2. Random forest 
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-## Youtube Implementation Video : https://youtu.be/CiEnP4xE0dY
